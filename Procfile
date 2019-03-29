@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT reverse_test_1759.wsgi:application
